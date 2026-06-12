@@ -10,7 +10,7 @@ npm or yarn
 
 Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/internship-tracker.git
+git clone https://github.com/vanshsharma85/internship-tracker.git
 cd internship-tracker
 Step 2: Install Frontend Dependencies
 bash
