@@ -1,6 +1,7 @@
 # internship-tracker
 A full-stack web application that helps students track internships, applications, interview schedules, and learning progress.
 🚀 Setup Steps
+## Login Page
 ![Login Page](Login_page.jpg)
 Prerequisites
 Node.js (v18 or higher)
