@@ -6,6 +6,8 @@ Node.js (v18 or higher)
 
 MongoDB (local or Atlas Cloud)
 
+Login Page (Login_page.jpg)
+
 npm or yarn
 
 Step 1: Clone the Repository
